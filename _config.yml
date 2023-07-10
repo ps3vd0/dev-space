@@ -1,7 +1,7 @@
-title: "psevd0's Blog"
+title: "psevd0"
 author: "psevd0"
-description: "The space for my writeups style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
+description: <a href='http://www.catb.org/hacker-emblem/'>
+<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
